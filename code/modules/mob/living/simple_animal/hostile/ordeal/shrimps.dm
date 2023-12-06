@@ -25,8 +25,6 @@ mob/living/simple_animal/hostile/shrimp_rifleman
 	projectilesound = 'sound/weapons/gun/pistol/shot_alt.ogg'
 
 
-
-
 	//extra buff shrimp i guess
 /mob/living/simple_animal/hostile/senior_shrimp
 	name = "wellcheers corp senior officer"
